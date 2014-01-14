@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GlassBus</string>
+    <string name="action_settings">Settings</string>
+    <string name="glass_voice_trigger">find me a bus</string>
+
+</resources>
